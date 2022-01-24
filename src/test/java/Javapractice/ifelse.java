@@ -11,7 +11,7 @@ public class ifelse {
 		  //  block of code to be executed if the condition is true
 		//if (99>=69)
 		
-		
+//syso 		
 		
 	int d=9;
 			int e=8;
